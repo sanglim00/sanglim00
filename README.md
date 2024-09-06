@@ -2,9 +2,9 @@
 
 <div align='center'>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=sanglim&textBg=false&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=sanglim&textBg=false&fontColor=000000">
-    <img alt="" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=sanglim&textBg=false&fontColor=000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=narrrrrmm&textBg=false&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=narrrrrmm&textBg=false&fontColor=000000">
+    <img alt="" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=narrrrrmm&textBg=false&fontColor=000000">
   </picture>
   <div>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=narrrrrmm" />
